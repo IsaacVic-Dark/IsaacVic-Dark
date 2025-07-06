@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Isaac 👋
 
-<!--
-**IsaacVic-Dark/IsaacVic-Dark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer, working with JavaScript, Node, React, Next, PHP, Laravel, and cloud platforms like AWS.
 
-Here are some ideas to get you started:
+## 💼 Tech Stack
+- 🖥️ Frontend: React, Next.js, Tailwind CSS
+- ⚙️ Backend: Laravel, Node.js, Express
+- ☁️ Cloud: AWS, Docker, GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Stats
+![Isaac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaacVic-Dark&show_icons=true&theme=radical)
+
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/isaacwarui/) | [Portfolio]([https://isaacvic-portfolio.netlify.app/])
