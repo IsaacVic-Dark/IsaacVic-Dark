@@ -10,4 +10,4 @@ I'm a passionate software developer, working with JavaScript, Node, React, Next,
 ## 🔥 Stats
 ![Isaac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaacVic-Dark&show_icons=true&theme=radical)
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/isaacwarui/) | [Portfolio](https://isaacvic-portfolio.netlify.app/) | [isaacvwarui@gmail.com](isaacvwarui@gmail.com)
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/isaacwarui/) | [Portfolio](https://isaacvic-portfolio.netlify.app/) | [isaacvwarui@gmail.com](mailto:isaacvwarui@gmail.com)
