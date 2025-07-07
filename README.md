@@ -9,7 +9,7 @@ I'm a passionate software developer, working with JavaScript, Node, React, Next,
 
 ## 🏆 Achievements
 
-- 🎓 Completed ![AWS Cloud Practitioner Certification](https://www.credly.com/badges/a26937ef-0f5b-4dd6-ac26-7143f0c88929/linked_in_profile)
+- 🎓 Completed [AWS Cloud Practitioner Certification](https://www.credly.com/badges/a26937ef-0f5b-4dd6-ac26-7143f0c88929/linked_in_profile)
 - 🏅 Built and launched a payroll system with React + Laravel
 - 🌍 Contributed to 3 open-source projects (bug fixes & documentation)
 - 🚀 Deployed 5 full-stack apps on Vercel & DigitalOcean
