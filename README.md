@@ -3,7 +3,9 @@
 I'm a passionate software developer, working with JavaScript, Node, React, Next, PHP, Laravel, and cloud platforms like AWS.
 
 ## Tech Stack
-javascript
+- Frontend: React, Next.js, Tailwind CSS
+- Backend: Laravel, Node.js, Express
+- Cloud: AWS, Docker, GitHub Actions
 
 ## Achievements
 
