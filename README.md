@@ -7,7 +7,6 @@ I'm a passionate software developer, working with JavaScript, Node, React, Next,
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />]
 
-
 ## Achievements
 
 - Completed [AWS Cloud Practitioner Certification](https://www.credly.com/badges/a26937ef-0f5b-4dd6-ac26-7143f0c88929/linked_in_profile)
